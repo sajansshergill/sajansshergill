@@ -23,8 +23,11 @@ Here’s a breakdown of my experience and skill set:
 ✅ Hands-on experience in data analysis and visualization using Python, SQL, Excel & Power BI
 
 ✅ Trained in machine learning, predictive modeling, A/B testing, and data storytelling
+
 ✅ Strong academic grounding in statistics, database management systems, and data structures
+
 ✅ Previous roles included CI/CD pipeline testing, production support, and integration testing
+
 ✅ Passionate about transforming messy, complex data into clear business solutions
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
