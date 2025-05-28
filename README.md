@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
---------------------------------------------------------------------------------------------------------------------------------------------
 Currently pursuing my Master’s in Data Science at Pace University, I bring over 3 years of experience in software quality assurance and functional testing within agile development environments. My foundation in tech and testing has evolved into a strong interest and growing expertise in data analytics and machine learning.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
