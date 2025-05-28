@@ -19,7 +19,9 @@ Currently pursuing my Master’s in Data Science at Pace University, I bring ove
 Here’s a breakdown of my experience and skill set:
 
 ✅ 3+ years of QA experience working across fintech and edtech domains.
+
 ✅ Hands-on experience in data analysis and visualization using Python, SQL, Excel & Power BI
+
 ✅ Trained in machine learning, predictive modeling, A/B testing, and data storytelling
 ✅ Strong academic grounding in statistics, database management systems, and data structures
 ✅ Previous roles included CI/CD pipeline testing, production support, and integration testing
