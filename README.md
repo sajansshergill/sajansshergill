@@ -34,5 +34,3 @@ I've worked on impactful data projects including:
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 I enjoy collaborating with cross-functional teams, building data pipelines, and turning business questions into measurable insights. I take initiative, communicate clearly, and thrive in fast-paced environments where learning and growth are constant.
-
--------------------------------------------------------------------------------------------------------------------------------------------------
