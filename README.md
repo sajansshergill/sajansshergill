@@ -32,9 +32,11 @@ Here’s a breakdown of my experience and skill set:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 I've worked on impactful data projects including:
-📊 Customer churn analysis using Random Forest
-📈 Marketing ad-spend analysis and ROI optimization
-⚡ Energy pricing and cost modeling
+1. 📊 Customer churn analysis using Random Forest
+
+2. 📈 Marketing ad-spend analysis and ROI optimization
+
+3. ⚡ Energy pricing and cost modeling
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
